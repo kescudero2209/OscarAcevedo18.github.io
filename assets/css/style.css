@@ -1,13 +1,16 @@
 body {
     font-family: "Roboto", sans-serif;
+    background-color: #58dbec;
     }
     .container-fluid{
-        background-color: #068596;
+        background-color: #22b8cc;
         justify-content: flex-end;
     }
     .colorfondo{
-    background-color: #068596;
-    margin-bottom: 15px;
+    background-color: #22b8cc;
+    }
+    .text-center{
+        background-color: #58dbec;
     }
     
     .card-body,
