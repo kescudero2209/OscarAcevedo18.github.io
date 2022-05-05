@@ -2,6 +2,10 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: #58dbec;
     }
+    .container{
+        text-align: center;
+        justify-content: center;        
+    }
     .container-fluid{
         background-color: #22b8cc;
         justify-content: flex-end;
@@ -12,25 +16,13 @@ body {
     .text-center{
         background-color: #58dbec;
     }
-    
-    .card-body,
     .card-title,
     .form-control,
     .button{
-    font-weight: lighter;
+    font-weight: serif;
     font-size: 20px;
     }
-    .text-secondary{
-    color: #28A745;
-    font-size: 15px;
-    }
-    .recibe,
-    .oferta
     .button {
-    font-weight: 500;
     font-size: large;
-    }
-    
-    .main{
-    background-color: #28A745;
+    text-align: center;
     }
