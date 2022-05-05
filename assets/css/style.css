@@ -1,0 +1,33 @@
+body {
+    font-family: "Roboto", sans-serif;
+    }
+    .container-fluid{
+        background-color: #068596;
+        justify-content: flex-end;
+    }
+    .colorfondo{
+    background-color: #068596;
+    margin-bottom: 15px;
+    }
+    
+    .card-body,
+    .card-title,
+    .form-control,
+    .button{
+    font-weight: lighter;
+    font-size: 20px;
+    }
+    .text-secondary{
+    color: #28A745;
+    font-size: 15px;
+    }
+    .recibe,
+    .oferta
+    .button {
+    font-weight: 500;
+    font-size: large;
+    }
+    
+    .main{
+    background-color: #28A745;
+    }
