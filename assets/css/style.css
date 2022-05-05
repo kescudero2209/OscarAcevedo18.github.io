@@ -21,6 +21,7 @@ body {
     }
     .text-center{
         background-color: #58dbec;
+        font-family: 'Libre Baskerville', serif;
     }
     .card-title,
     .form-control,
